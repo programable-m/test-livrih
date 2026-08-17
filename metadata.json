@@ -1,0 +1,6 @@
+{
+  "name": "livrih - Plateforme Logistique & Livraison Maroc",
+  "description": "منصة رقمية متكاملة لخدمات التوصيل واللوجستيك والتجارة الإلكترونية في المغرب (livrih.com) - تتبع الشحنات، فضاء التجار، إدارة الطرود، الفواتير، المرتجعات، وتطبيق السائقين.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
